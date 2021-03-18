@@ -1,4 +1,4 @@
-# Plugable third party script
+# External script
 This repo contains source code for displaying a modal when a specific dom element clicked
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
